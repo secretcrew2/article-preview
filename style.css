@@ -53,7 +53,7 @@ body{
 .share-link{
     border-style: none;
     width: 2.5rem;
-    aspect-ratio: 1;
+    height: 2.5rem;
     border-radius: 50%;
 }
 .share-link:hover{
